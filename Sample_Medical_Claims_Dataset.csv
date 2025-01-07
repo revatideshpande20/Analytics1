@@ -1,0 +1,6 @@
+ClaimID,PatientID,Provider,ProcedureCode,ClaimAmount,PaidAmount,ClaimStatus,SubmissionDate,ProcessingTime(Days)
+101,1001,Provider A,P001,1200,1100,Paid,2024-01-01,5
+102,1002,Provider B,P002,500,500,Paid,2024-01-02,3
+103,1003,Provider C,P003,1500,0,Denied,2024-01-05,10
+104,1004,Provider A,P001,800,800,Paid,2024-01-03,4
+105,1005,Provider B,P004,1000,950,Partially Paid,2024-01-04,7
